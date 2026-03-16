@@ -1,0 +1,12 @@
+Amadeus:
+
+API KEY: h1YYUS1GA1CSYqW3XaEKAA2pE0DLQgAr
+API SECRET: osqK2CRE7koGCrVe
+
+GEMINI
+
+API KEY: AIzaSyA8KUCkFOMcvvNgLUsWopvjr7bPM0Zp1Dc
+
+Hugging Face: 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
+
+search API: QaRH42bJ2NrAeh6YWBfBjcgy
